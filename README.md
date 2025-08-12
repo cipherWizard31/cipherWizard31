@@ -30,7 +30,8 @@ My focus is on building **robust backend systems**, mastering **web architecture
 ---
 
 ## 📈 GitHub Stats  
-![Nate's GitHub stats](https://github-readme-stats.vercel.app/api?username=cipherWizard&show_icons=true&theme=radical)  
+![cipherWizard31's Stats](https://github-readme-stats.vercel.app/api?username=cipherWizard31&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![cipherWizard31's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cipherWizard31&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
