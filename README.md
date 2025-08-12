@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there, I'm Nate 👋  
 
-<!--
-**cipherWizard31/cipherWizard31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Fullstack Developer | Backend Specialist | Cybersecurity Enthusiast**  
 
-Here are some ideas to get you started:
+I craft scalable, secure, and maintainable applications that bring ideas to life.  
+My focus is on building **robust backend systems**, mastering **web architecture**, and exploring **cybersecurity**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I’m Working On  
+- **BlueSkills** – A platform connecting blue-collar talent with employers.  
+- **PulseCare** – A healthcare platform with role-based authentication and medical record management.  
+
+---
+
+## 🛠 Tech Stack  
+- **Languages:** JavaScript (ES6+), TypeScript, SQL  
+- **Backend:** Node.js, Express.js, MySQL, Supabase  
+- **Frontend:** React.js, Next.js  
+- **Tools & DevOps:** Docker, Git, Firebase, Postman  
+- **Security Focus:** Authentication, Authorization, SQL Injection prevention, Data Privacy  
+
+---
+
+## 📚 Currently Learning  
+- Advanced Web Security Practices  
+- Docker & Container Orchestration  
+- High-Performance Web Architectures  
+
+---
+
+## 📈 GitHub Stats  
+![Nate's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
+
+---
+
+## 🌐 Connect With Me  
+[LinkedIn](https://linkedin.com/in/YOUR_LINK) • [Portfolio](https://YOUR_PORTFOLIO.com) • [Email](mailto:YOUR_EMAIL@example.com)  
+
+---
+
+> *"Strong architecture is invisible, but its absence is loud."*
