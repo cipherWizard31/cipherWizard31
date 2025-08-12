@@ -30,12 +30,12 @@ My focus is on building **robust backend systems**, mastering **web architecture
 ---
 
 ## 📈 GitHub Stats  
-![Nate's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
+![Nate's GitHub stats](https://github-readme-stats.vercel.app/api?username=cipherWizard&show_icons=true&theme=radical)  
 
 ---
 
 ## 🌐 Connect With Me  
-[LinkedIn](https://linkedin.com/in/YOUR_LINK) • [Portfolio](https://YOUR_PORTFOLIO.com) • [Email](mailto:YOUR_EMAIL@example.com)  
+[LinkedIn](https://linkedin.com/in/YOUR_LINK) • [Portfolio](https://portfolio-three-chi-23.vercel.app/) • [Email](mailto:nathanyidnekachew383@gmail.com)  
 
 ---
 
