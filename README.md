@@ -3,7 +3,9 @@
 <a href="https://app.daily.dev/natancodes"><img src="https://api.daily.dev/devcards/v2/AHLaFuqF80ihW2EaJpcIN.png?r=bxa&type=wide" width="652" alt="Natan Yidnekachew's Dev Card"/></a>
 
 ## 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on **PulseCare & BlueSkills**<br>
+👯 I’m looking to collaborate on **open source projects, and collaborative opportunites**<br>
+🌱 I’m currently learning **Advanced Web Security, Systems Architecture**<br>
 
 
 ## 🌐 Socials:
