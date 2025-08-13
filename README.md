@@ -2,14 +2,22 @@
 
 💻 **Fullstack Developer | Backend Specialist | Cybersecurity Enthusiast**  
 
-I craft scalable, secure, and maintainable applications that bring ideas to life.  
-My focus is on building **robust backend systems**, mastering **web architecture**, and exploring **cybersecurity**.  
+Crafting scalable, secure, and maintainable applications that bring ideas to life.  
+My focus is on building **robust backend systems**, mastering **web architecture**, and exploring **security systems**.  
+
+---
+
+## 📈 GitHub Stats  
+![cipherWizard31's Stats](https://github-readme-stats.vercel.app/api?username=cipherWizard31&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![cipherWizard31's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cipherWizard31&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+![cipherWizard31's Streak](https://github-readme-streak-stats.herokuapp.com/?user=cipherWizard31&theme=vue-dark&hide_border=true)
 
 ---
 
 ## 🚀 What I’m Working On  
 - **BlueSkills** – A platform connecting blue-collar talent with employers.  
-- **PulseCare** – A healthcare platform with role-based authentication and medical record management.  
+- **PulseCare** – An insider program that acts as a central database for medical history.  
 
 ---
 
@@ -24,14 +32,9 @@ My focus is on building **robust backend systems**, mastering **web architecture
 
 ## 📚 Currently Learning  
 - Advanced Web Security Practices  
-- Docker & Container Orchestration  
-- High-Performance Web Architectures  
-
----
-
-## 📈 GitHub Stats  
-![cipherWizard31's Stats](https://github-readme-stats.vercel.app/api?username=cipherWizard31&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![cipherWizard31's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cipherWizard31&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+- Orchestration  
+- High-Performance Web Architectures
+- Software Architecture & Systems Design
 
 ---
 
