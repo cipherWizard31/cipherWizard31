@@ -7,6 +7,8 @@
 👯 I’m looking to collaborate on **open source projects, and collaborative opportunites**<br>
 🌱 I’m currently learning **Advanced Web Security, Systems Architecture**<br>
 
+![LeetCode Stats](https://readmecodegen.vercel.app/api/leetcode-stats/cipherWizard31)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cipher_wizard31) 
